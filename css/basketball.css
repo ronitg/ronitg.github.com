@@ -1,0 +1,11 @@
+h3{
+  color:gray;
+}
+
+h1{
+  border-color:blue;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5em;
+  background-color: #900;
+  text-align: center;
+}
