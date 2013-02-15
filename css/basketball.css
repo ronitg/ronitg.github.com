@@ -1,11 +1,10 @@
-
 h1{
   border-color:red;
   border-bottom-style: solid;
   border-bottom-width: 0.5em;
   background-color: Black;
   text-align: center;
-  color: orange;
+  color: red;
 }
 
 body{
@@ -20,5 +19,5 @@ h2{
   border-bottom-width: 0.5em;
   background-color: red;
   text-align: left;
-  color: red;
+  color: black;
 }
