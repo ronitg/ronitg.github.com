@@ -1,9 +1,10 @@
 h3{
-  color:gray;
+  color:black
+  ;
 }
 
 h1{
-  border-color:blue;
+  border-color:red;
   border-bottom-style: solid;
   border-bottom-width: 0.5em;
   background-color: #ffaa00;
