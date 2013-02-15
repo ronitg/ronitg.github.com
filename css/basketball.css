@@ -1,5 +1,4 @@
 
-
 h1{
   border-color:red;
   border-bottom-style: solid;
@@ -19,7 +18,7 @@ h2{
   border-color:black;
   border-bottom-style: solid;
   border-bottom-width: 0.5em;
-  background-color: Black;
-  text-align: center;
-  color: orange;
+  background-color: red;
+  text-align: left;
+  color: red;
 }
